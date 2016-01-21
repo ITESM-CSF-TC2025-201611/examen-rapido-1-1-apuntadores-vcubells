@@ -23,13 +23,12 @@ Escriba un programa en C que data una cadena de caracteres entrada por el usuari
 
 Letra        Frecuencia 
 
-a                    3               ***
+a                   3               ***
 
-e                    2               **
+e                   2               **
 
-r                     1              *
+r                   1               *
 
-....
 
 Tenga en cuenta que solo se debe obtener la frecuencia de las letras que aparecen en la cadena. Las letras que no están presentes en la cadena, no deben considerarse.
 
