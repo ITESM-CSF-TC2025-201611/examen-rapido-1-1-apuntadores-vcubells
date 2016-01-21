@@ -4,12 +4,13 @@ Orientaciones sobre la entrega de la actividad
 
 Resuelva el ejercicio que aparece a continuación y suba la respuesta a GitHub antes de las 10:25 horas. Para subir la respuesta del ejercicio siga los siguientes pasos:
 
-Para comenzar, haga un fork del repositorio Examen rápido 1 (Enlaces a un sitio externo.).
+Para comenzar, haga un fork del repositorio Examen rápido 1.
 Clone el repositorio a su computadora.
 Modifique el código necesario y haga un commit para completar su ejercicio.
 Push/sync los cambios a GitHub.
 Cree un "pull request" en el repositorio original para realizar la entrega de la actividad.
 Marque como terminada la actividad en Canvas.
+
 Para evaluar la actividad, el profesor compilará y ejecutará el ejercicio para comprobar que no contienen errores de compilación ni de ejecución, y además, se evaluará el uso de las técnicas correctas de programación vistas en las clases.
 
 No se aceptan trabajos fuera de fecha ni por correo, en ambos casos la calificación de la actividad será 0 puntos.
